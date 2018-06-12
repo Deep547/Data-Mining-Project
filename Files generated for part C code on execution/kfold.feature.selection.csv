@@ -1,0 +1,4 @@
+"","features","n.features","macro.f","micro.f","macro.a","micro.a","pf.mean","pf.sd"
+"1","topic Models + fr_10",24,41.8,74.6,97.7,97.7,88,0.008
+"2","topic Models + fr_10, normalised",24,41.4,74.6,97.7,97.7,88,0.005
+"3","topic Models + fr_10, binary",24,42.1,75.3,97.7,97.7,88.6,0.008
